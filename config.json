@@ -1,7 +1,7 @@
 {
     "configVersion": 2,
-    "appIdentifier": "myapp.appiris",
-    "appName": "App-Iris",
+    "appIdentifier": "com.nativemobileapp.mobile",
+    "appName": "AppTest",
     "bundleName": {
         "main": "AppIris",
         "dev": "AppIrisDev"
@@ -121,5 +121,8 @@
         "nativeOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "http://localhost/"
 }
